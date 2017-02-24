@@ -6,4 +6,8 @@ This is the main place on Github for projects which are created at the 8th Code 
 
 Each of the projects will have its own Gitub repo within the CodeTheCity organisation. And each project team will have memembers with access to the repos. 
 
-Ian has set up a first repo [slackbot-example](https://github.com/CodeTheCity/slackbot-example) which shows how he created a chatbot to run under Slack. 
+#Projects
+
+* [slackbot-example](https://github.com/CodeTheCity/slackbot-example) Ian has set up a first repo which shows how he created a chatbot to run under Slack.
+* More to come as we create teams and projects on Saturday ....
+
