@@ -9,5 +9,11 @@ Each of the projects will have its own Gitub repo within the CodeTheCity organis
 #Projects
 
 * [slackbot-example](https://github.com/CodeTheCity/slackbot-example) Ian has set up a first repo which shows how he created a chatbot to run under Slack.
-* More to come as we create teams and projects on Saturday ....
+* [city-consult](https://github.com/CodeTheCity/city-consult)
+* [woander](https://github.com/CodeTheCity/woander)
+* [stuff-happens](https://github.com/CodeTheCity/stuff-happens)
+* [seymour](https://github.com/CodeTheCity/seymour)
+* [aliss](https://github.com/CodeTheCity/aliss)
+
+
 
