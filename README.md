@@ -8,12 +8,16 @@ Each of the projects will have its own Gitub repo within the CodeTheCity organis
 
 #Projects
 
+* [aliss](https://github.com/CodeTheCity/aliss) - Query the ALISS system via a chatbot interface
+* [city-consult](https://github.com/CodeTheCity/city-consult) - city consultations using a chatbot front-end
+* [NoBot](https://github.com/CodeTheCity/nobot) - a bot with a mission to stop you booking unnecessary meetings - and be objectionable
+* [seymour](https://github.com/CodeTheCity/seymour) - he'll help you keep your houseplants heathy
+* [stuff-happens](https://github.com/CodeTheCity/stuff-happens) - a Slack bot to help you find out what's on in the area
+* [woander](https://github.com/CodeTheCity/woander) - help to find out the opening hours of businesses via a Facebook bot
+
+Plus 
+
 * [slackbot-example](https://github.com/CodeTheCity/slackbot-example) Ian has set up a first repo which shows how he created a chatbot to run under Slack.
-* [city-consult](https://github.com/CodeTheCity/city-consult)
-* [woander](https://github.com/CodeTheCity/woander)
-* [stuff-happens](https://github.com/CodeTheCity/stuff-happens)
-* [seymour](https://github.com/CodeTheCity/seymour)
-* [aliss](https://github.com/CodeTheCity/aliss)
 
 
 
