@@ -14,10 +14,9 @@ Each of the projects will have its own Gitub repo within the CodeTheCity organis
 * [seymour](https://github.com/CodeTheCity/seymour) - he'll help you keep your houseplants heathy
 * [stuff-happens](https://github.com/CodeTheCity/stuff-happens) - a Slack bot to help you find out what's on in the area
 * [woander](https://github.com/CodeTheCity/woander) - help to find out the opening hours of businesses via a Facebook bot
+* [word-association-scorer](https://github.com/digitalWestie/word-association-scorer) - not a bot but a set of python functions that scores a given text against a set of categories
 
 Plus 
 
 * [slackbot-example](https://github.com/CodeTheCity/slackbot-example) Ian has set up a first repo which shows how he created a chatbot to run under Slack.
-
-
 
